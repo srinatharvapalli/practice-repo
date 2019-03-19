@@ -1,7 +1,0 @@
-1	user
-2	
-3	user
-4
-5 owner
-6
-7	user
